@@ -1,0 +1,17 @@
+#+TITLE: Sitemap
+
+- songs
+  - [[file:songs/carrythezero.org][Built to Spill - Carry The Zero]]
+  - [[file:songs/alison.org][Elvis Costello - Alison]]
+  - [[file:songs/allinyourhead.org][Nilufer Yanya - All In Your Head]]
+  - [[file:songs/fallingandlaughing.org][Orange Juice - Falling and Laughing]]
+  - [[file:songs/ripitup.org][Orange Juice - Rip It Up]]
+  - [[file:songs/blacklicorice.org][Peach Pit - Black Licorice]]
+  - [[file:songs/gougeaway.org][Pixies - Gouge Away]]
+  - [[file:songs/psychokiller.org][Talking Heads - Psycho Killer]]
+  - [[file:songs/pulledup.org][Talking Heads - Pulled Up]]
+  - [[file:songs/proveit.org][Television - Prove It]]
+  - [[file:songs/octopussgarden.org][The Beatles - Octopuses Garden]]
+  - [[file:songs/heavenknowsimmiserablenow.org][The Smiths - Heaven Knows I'm Miserable Now]]
+  - [[file:songs/youonlyliveonce.org][The Strokes - You Only Live Once]]
+  - [[file:songs/dancinginthemoonlight.org][Thin Lizzy - Dancing In The Moonlight]]
